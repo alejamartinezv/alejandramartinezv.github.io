@@ -1,15 +1,15 @@
 # alejandramartinezv.github.io
 
-Welcome to the personal portfolio of **Alejandra Martínez V.**, Data Analyst in transition from premium retail leadership.
+Welcome to the personal portfolio of **Alejandra Martínez V.**, a Commercial & Retail Operations Leader with a Business Analytics foundation.
 
-This site showcases projects built with **Python, SQL, Tableau, and Power BI**, focused on optimizing sales KPIs, analyzing price elasticity, and understanding customer behavior in commercial environments.
+This portfolio showcases projects built with **Python, SQL, Tableau, and Power BI**, focused on transforming commercial data into actionable insights for smarter decision-making.
 
-With over 8 years of experience leading retail operations and a recent certification in Data Analytics (TripleTen Bootcamp, 2025), I specialize in transforming business challenges into actionable insights through dashboards, hypothesis testing, and strategic storytelling.
+With 13 years of experience driving retail execution, trade marketing, and account performance across Mexico's leading department store chains, complemented by a Business Analytics certification (TripleTen, 2026), I combine commercial expertise with analytical tools to support category performance, inventory optimization, and data-informed decision-making.
 
 ## 📌 Connect with Me
 
-🔗 [Live Portfolio](https://data-analyst-ai.github.io/alejandramartinezv.github.io/)  
-💻 [GitHub Profile](https://github.com/Data-Analyst-AI)  
-🌐 [LinkedIn](https://www.linkedin.com/in/alejandra-martinez-v-4aa51717a/)  
-📄 [View My CV](CV_Alejandra_Martinez_Data_Analytics.pdf )  
-📊 [Sales Dashboard – TECNOMAXX in Power BI](https://app.powerbi.com/groups/me/reports/9797987a-cc94-4dcd-9940-931ccea4defa/bbe026bcdf901200b072?experience=power-bi)
+🔗 [Live Portfolio](https://alejamartinezv.github.io/alejandramartinezv.github.io/)  
+💻 [GitHub Profile](https://github.com/alejamartinezv)  
+🌐 [LinkedIn](https://www.linkedin.com/in/alejamartinezv/)  
+📄 [View My CV](CV_Alejandra_Martinez_CommercialRetailLeader.pdf)
+📊 [Retail Intelligence Dashboard – Power BI](https://app.powerbi.com/groups/me/reports/9797987a-cc94-4dcd-9940-931ccea4defa/bbe026bcdf901200b072?experience=power-bi)
